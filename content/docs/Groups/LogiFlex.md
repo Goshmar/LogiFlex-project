@@ -509,3 +509,4 @@ Week 6 represented a motivating final push to complete the tasks, despite delays
 
 Such experience of work and collaboration has shown that the algorithm of optimal arrangement of heterogeneous goods is relevant in the market and further development of LogiFlex will definitely go beyond the student course.
 
+
